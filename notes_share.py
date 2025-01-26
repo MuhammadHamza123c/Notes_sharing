@@ -30,7 +30,6 @@ if name and rollno:
     }
     # You can create a collection named "students"
     db.collection('students').add(data)
-    
 
 folder_path = "D:/Code/OOP"
 folder_path1 = "D:/Code/Database"
